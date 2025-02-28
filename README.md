@@ -1,31 +1,22 @@
-# Cartão de Aniversário Personalizado
+Personalized Birthday Card
 
-Este projeto em HTML, CSS e JavaScript apresenta um cartão de aniversário interativo e personalizado. 
+This project, built with HTML, CSS, and JavaScript, presents an interactive and personalized birthday card.
 
-## Funcionalidades
+Features
+	•	Date Input Page: Users enter a date to view the card.
+	•	Card Display: Shows an animated card if the entered date matches a specific one (07/07).
+	•	Error Messages: Displays a message if the date is not the expected one.
 
-- **Página de Inserção de Data:** Os usuários inserem uma data para ver o cartão.
-- **Exibição do Cartão:** Mostra um cartão animado se a data inserida for específica (07/07).
-- **Mensagens de Erro:** Exibe uma mensagem se a data não for a esperada.
+Technologies Used
+	•	HTML
+	•	CSS
+	•	JavaScript
 
-## Tecnologias Utilizadas
+How to Use
+	1.	Clone this repository.
+	2.	Open index.html in your browser.
+	3.	Enter a date (e.g., 07/07) to view the card.
 
-- HTML
-- CSS
-- JavaScript
+Contributions
 
-## Como Usar
-
-1. Clone este repositório.
-2. Abra `index.html` no seu navegador.
-3. Insira a data (por exemplo, 07/07) para ver o cartão.
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou um pull request.
-
-## Autor
-
-Humberto Vitalino - [GitHub](https://github.com/humbertovitalino)
-
-
+Contributions are welcome! Feel free to open an issue or submit a pull request.
